@@ -32,4 +32,6 @@
 
 **Exemplo de Saída**: 
 
-- Se o usuário digitar "João" e "25", a mensagem exibida deve ser: "João, você completará 100 anos em 75 anos." 
+- Se o usuário digitar "João" e "25", a mensagem exibida deve ser: "João, você completará 100 anos em 75 anos."
+- **autoria**
+- este codigo foi criado pro felipe.
